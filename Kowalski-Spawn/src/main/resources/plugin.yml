@@ -1,0 +1,12 @@
+name: Kowalski-Spawn
+version: '1.0-INDEV'
+main: pl.pawelusz.spawn.SpawnPlugin
+api-version: '1.21'
+authors: [ Pawelusz ]
+description: Plugin written by Pawelusz :)
+
+commands:
+  spawn:
+  adminspawn:
+    permission: spawn.admin
+    aliases: [ aspawn ]

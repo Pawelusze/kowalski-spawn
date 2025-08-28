@@ -1,0 +1,4 @@
+pl/pawelusz/spawn/SpawnPlugin.class
+pl/pawelusz/spawn/command/AdminSpawnCommand.class
+pl/pawelusz/spawn/command/SpawnCommand.class
+pl/pawelusz/spawn/SpawnLocation.class
